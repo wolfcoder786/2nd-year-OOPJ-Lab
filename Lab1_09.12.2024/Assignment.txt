@@ -1,0 +1,5 @@
+Q1 Wap using java to print "Hello World";
+Q2 Wap using java to print resume ;
+Q3 Wap to swap two variables using java
+Q4 Wap to calc amount you spend in reliance ,if your expenditure is more than 25000 then discount is 15% otherwise it is 10%
+Q5 Wap to find nth fibonacci number
