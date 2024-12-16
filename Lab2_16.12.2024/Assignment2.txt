@@ -1,0 +1,9 @@
+1. WAP in java which will accept your name age, Salary from the keyboard using scanner class and display on the screen.
+2. Write a program to print the corresponding grade for the given 	mark using if..else statement in Java
+3. Write a program to print the week day for the given day no. of 	the current month using switch case statement
+4. WAP in java which will accept N numbers from command line argument and will display the total number of even, total 	number of odd, sum of even, sum of odd and the GRAND TOTAL
+5. WAP in java which will accept the mark of 3 subject and print the corresponding grade for the given mark using if..else 	statement in java.  Also use separate function for accceptDetails() and displayDetails(). Use InputStreamReader and BufferedReader class
+6. 7.Display the element on an array using for each loop. The array 	value shall be taken from keyboard.
+7. Program on two dimensional array, the program will accept the 	size of row and column from the keyboard and the value also 	from the keyboard the output will be displayed in 2D matrix form.
+8. 9.WAP in java which will ask the user – How many toy details you 	want to accept, than the program will accept the Toy Id, Toy name,  Toy Qty and Toy price from the user  and finally the program will display the individual details of all the toys and Grand total of the billing amount. Hint – do the program using two different classes
+9. WAP in java using array object of the class, the program will accept customer name , customer cell , customer pkg and 	 customer age for 3 customer and display the same. Hint – 	use 	the concept of array object of class and do it using 2 classes.
