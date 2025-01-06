@@ -1,0 +1,8 @@
+1.Write a program to print the week day for the given day no. of the current month using switch case statement
+2.Find the largest among 3 user entered number at the command prompt using java
+3.Write a program to print the coressponding grade for the given mark using if else  statement in java
+4.Swap numbers using bitwise operator
+5. Write a class file - box with three data members (length, width, height) and a method volume(). Also implement the application class Demo where an object of the box class is created with user entered dimensions and volume is printed.
+6. program on static method()
+7. Program on static variable
+8. Program on static block

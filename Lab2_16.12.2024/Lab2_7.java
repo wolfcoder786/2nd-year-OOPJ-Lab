@@ -1,4 +1,4 @@
-// 7. Program on two dimensional array, the program will accept the 	size of row and column from the keyboard and the value also 	from the keyboard the output will be displayed in 2D matrix form.
+// 7. Program on two dimensional array, the program will accept the size of row and column from the keyboard and the value also 	from the keyboard the output will be displayed in 2D matrix form.
 
 import java.util.Scanner;
 
