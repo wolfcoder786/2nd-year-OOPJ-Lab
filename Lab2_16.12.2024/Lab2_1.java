@@ -8,7 +8,7 @@ public class Lab2_1 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your Name:");
         String name = sc.nextLine();
-        System.out.println("Enter Your Age:");;
+        System.out.println("Enter Your Age:");
         int age = sc.nextInt();
         System.out.println("Enter Your Salary:");
         double salary = sc.nextDouble();
