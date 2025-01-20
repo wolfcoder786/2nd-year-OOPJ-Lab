@@ -2,4 +2,10 @@
 2.Program displaying the use of final Modifier with respect to final class , final method and final variable
 3.Program on use of Super Keyword 
 4.Program on initialization of superclass  constructor through child class constructor using super Keyword
-
+5.A Plastic manufacturer sells plastic in different shapes like 2D sheet and 3D box. The cost of sheet is Rs 40/ per square ft. and the cost of box is Rs 60/ per cubic ft. Implement it in Java to calculate the cost of plastic as per the dimensions given by the user where 3D inherits from 2D.
+Input: Enter dimensions
+Output: Display the cost of Plastic
+6.Illustrate the execution of constructors in multi-level inheritance with three Java classes plate(length, width), box(length, width, height), wood box (length, width, height, thick) where box inherits from plate and woodbox inherits from box class. Each class has constructor where dimensions are taken from user.
+Input: Enter the dimensions
+Output: Display the dimensions accordingly
+7.
