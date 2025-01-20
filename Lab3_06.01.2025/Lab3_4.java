@@ -14,6 +14,7 @@ public class Lab3_4 {
         a = a ^ b ;
         System.out.println("First number after swapping: "+a);
         System.out.println("Second number after swapping: "+b);
+        sc.close();
         
     }
 

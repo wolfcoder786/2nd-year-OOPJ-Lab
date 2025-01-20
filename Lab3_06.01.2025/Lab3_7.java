@@ -10,6 +10,7 @@ public class Lab3_7 {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         return n ;
+     
     }
 
     public static void main(String[] args) {

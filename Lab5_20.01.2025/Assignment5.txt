@@ -1,0 +1,12 @@
+1.Crate an abstract class 'student' with two data members roll no, reg no, a method getinput() and an abstract method course(). A subclass 'kiitian' with course() method implementation. Write the driver class to print the all details of a kiitian object.
+Input -  Rollno 2205180 
+Registration no 1234567890
+Output -Rollno 2205180 
+Registration no 1234567890
+Course B.Tech. (Computer Science & Engg)
+2.Define an abstract Bank class having a method as getRateOfInterest(). Create two classes SBI and PNB which extend Bank class and implement the getRateOfInterest method.
+Input mentioned in the program
+Output The rate of interest of the bank is ---
+3.Create an abstract class shape with a blank method called calcArea(). Derive two child class named as Circle and Triangle which will overrides the method and display the area accordingly.
+4.Do the Program No 3 in a different way where Shape class reference object will point circle class method (i.e. Dynamic Polymorphism). But this object will be able call only Shape class function and not the child class own function
+5.Do a program on Package as shown in the class which will implement the concept of all the access specifier in java.
