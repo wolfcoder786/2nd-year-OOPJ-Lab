@@ -1,4 +1,7 @@
 // 3.Create an abstract class shape with a blank method called calcArea(). Derive two child class named as Circle and Triangle which will overrides the method and display the area accordingly.
+
+import java.util.Scanner;
+
 abstract class Shape{
     abstract void calcArea();
 }
@@ -28,8 +31,16 @@ class Triangle extends Shape{
 }
 public class Lab5_3 {
     public static void main(String[] args) {
-        Shape circle  = new Circle(5);
-        Shape Triangle = new Triangle(10, 5);
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the radius of Circle :");
+        int r = sc.nextInt();
+        System.out.print("Enter the base of Triangle  :");
+        int base = sc.nextInt();
+        System.out.print("Enter the height of Triangle  :");
+        int height = sc.nextInt();
+        
+        Shape circle  = new Circle(r);
+        Shape Triangle = new Triangle(base,height);
         circle.calcArea();
         Triangle.calcArea();
     }
