@@ -41,7 +41,7 @@ public class MyForm2 {
         // Name Input
         nameLabel = new JLabel("First Name:");
         nameLabel.setFont(new Font("Arial", Font.BOLD, 14));
-        nameLabel.setForeground(Color.YELLOW);
+        // nameLabel.setForeground(Color.white);
         nameField = new JTextField();
         nameField.setFont(new Font("Arial", Font.PLAIN, 14));
         nameField.setBorder(BorderFactory.createLineBorder(Color.GRAY));
